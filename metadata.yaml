@@ -1,0 +1,32 @@
+_repo: Festival-plays-b-one-act-pieces-for-New-Year-s-day-St-Valentine-s-day-Easter-All-Hallowe-en-C__74498
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Merington, Marguerite
+    alias: Merrington, Marguerite
+    birthdate: 1857
+    deathdate: 1951
+    gutenberg_agent_id: '39141'
+    url: http://www.gutenberg.org/2009/agents/39141
+description: ''
+gutenberg_issued: '2024-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74498'
+language: en
+pgterms:marc904: https://archive.org/details/festivalplaysone00meririch/page/n7/mode/2up
+pgterms:marc905: 20210326211102merington
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aNew York :$bDuffield & Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Festival plays : $b one-act pieces for New Year''s day, St. Valentine''s day,
+  Easter, All Hallowe''en, Christmas and a child''s birthday'
+url: http://www.gutenberg.org/ebooks/74498
